@@ -1,12 +1,3 @@
-# badcalculator
-
-very good calculator it so efficient!!111!!111111!!!!!!!11!!!!!!!!11
-run the badcalculator.py file or import it in your own python code!!!!! best calculator ever!!!!!
-
-### how do i contribute?
-
-same answer as below
-
-### how do i use it?
-
-step 1. dont
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e5ae44a8edc7a262d38da5aada3b07fbe9fb62a21d9875b87ba8b18f313b866
+size 268
